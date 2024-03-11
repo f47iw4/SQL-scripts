@@ -1,5 +1,4 @@
 CREATE DATABASE IF NOT EXISTS libreria;
-
 USE libreria;
 
 CREATE TABLE Autores(
@@ -66,13 +65,3 @@ VALUES
 (4, 4, '2024-01-31', 23),
 (5, 6, '2024-02-15', 43),
 (6, 5, '2022-03-10', 21);
-
-
-
-
-
-
-
-
-
-
